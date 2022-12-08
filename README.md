@@ -1,4 +1,4 @@
-### Monkeydrainer#7764
+### TO PURCHASE CLEAN UNOBFUSKATED SOURCE CODE ADD -> Discord: Monkeydrainer#7764
 
 This drainer uses a handful of smart contracts to batch transactions, removing the need for users to click approve more than once. The only only approval pushed is a request to sign message, everything else happens silentlty. Add me on Discord if you're interested in buying. I charge 0.15 ETH/setup. This gets you the source code and if required I can host it and set it up. Feel free to add and make an offer. I have many more tools I'll be uploading as well.
 
